@@ -11,4 +11,5 @@ struct write_message {
 void create_message(struct write_message *msg);
 void display_message(struct write_message *msg);
 
+
 #endif
