@@ -1,9 +1,9 @@
 # Messenger-in-C-v1
-Messaging coded in C language V1
-Single thread server client communication
-Menu options: Send message, Read messages, Quit
-Read messages ask for simple password.
-For now server saves only 10 messages at a time.
+- Messaging coded in C language V1
+- Single thread server client communication
+- Menu options: Send message, Read messages, Quit
+- Read messages ask for simple password.
+- For now server saves only 10 messages at a time.
 
 This is Version 1, focusing on basic client–server communication and message storage.
 
@@ -18,6 +18,7 @@ gcc server.c -o server
 
 ## Read messages password is incorrect
 <img width="527" height="385" alt="image" src="https://github.com/user-attachments/assets/184fa2a7-5307-44a8-b206-29a7e88c48b5" />
+
 ## Read messages with correct password
 <img width="646" height="382" alt="image" src="https://github.com/user-attachments/assets/558e2ecb-fd93-47ff-bd97-c1ff9597db5c" />
 
